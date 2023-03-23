@@ -1,7 +1,7 @@
 ### My Personal Repo 👋
 
 <h1 align="center">Hello 👋, I'm Akash 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Abhinadan Raj.I have a keen interest in DSA, Java and Web Development and have a huge fascination with the inner workings of technology.</h3>
+<h3 align="center">Hey it's me Akash .I have a keen interest in DSA, Java and Web Development and have a huge fascination with the inner workings of technology.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
