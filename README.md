@@ -2,7 +2,7 @@
 Hi, I'm Akash Yadav!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!-- <img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" /> -->
- <img src="https://github.com/AKASHKUMAR507" alt="Profile views" align='right'/> <a href="https://github.com/AKASHKUMAR507"> </a> 
+ <img src="https://play-lh.googleusercontent.com/jThZko1JglS60OYJ5nHyswOJEGm08nVf-FvzZWPKy_3dw3J6qJLip-EC6RhkWgWnQ5Jv=w5120-h2880-rw" width="100" alt="Profile views" align='right'/> <a href="https://github.com/AKASHKUMAR507"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
