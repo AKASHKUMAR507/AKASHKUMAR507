@@ -2,12 +2,12 @@
 Hi, I'm Akash Yadav!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!-- <img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" /> -->
- <img src="https://play-lh.googleusercontent.com/jThZko1JglS60OYJ5nHyswOJEGm08nVf-FvzZWPKy_3dw3J6qJLip-EC6RhkWgWnQ5Jv=w5120-h2880-rw" width="100" alt="Profile views" align='right'/> <a href="https://github.com/AKASHKUMAR507"> </a> 
+<!--  <img src="https://play-lh.googleusercontent.com/jThZko1JglS60OYJ5nHyswOJEGm08nVf-FvzZWPKy_3dw3J6qJLip-EC6RhkWgWnQ5Jv=w5120-h2880-rw" width="100" alt="Profile views" align='right'/> <a href="https://github.com/AKASHKUMAR507"> </a>  -->
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Mobile+App+Android+iOS;%20Web+Developer;Freelancer;%20DS%20Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
@@ -113,14 +113,14 @@ I-am-akash-yadav@github
 ## GitHub Stats
 
 
-|                                                               Vishal's Stats                                                                |
+|                                                               Akash's Stats                                                                |
 | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-|        ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)        |
-|              ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)              |
+| ![Akash's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
+|        ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)        |
+|              ![Akash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)              |
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |
+|                                                                                                      Akash's Stars                                                                                                       |                                                           Top Languages                                                           |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
@@ -133,7 +133,7 @@ I-am-akash-yadav@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:akashkumar32755@gmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
