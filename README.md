@@ -1,159 +1,85 @@
-<h1 align="center">
-Hi, I'm Akash Yadav!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!-- <img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" /> -->
-<!--  <img src="https://play-lh.googleusercontent.com/jThZko1JglS60OYJ5nHyswOJEGm08nVf-FvzZWPKy_3dw3J6qJLip-EC6RhkWgWnQ5Jv=w5120-h2880-rw" width="100" alt="Profile views" align='right'/> <a href="https://github.com/AKASHKUMAR507"> </a>  -->
+Hi! My name is Akash Chopra 😄
+========================================================================================================================================
+
+🌍  I am a Front-End Web & React Native Mobile Developer in Patna, Bihar, India.
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Mobile+App+Android+iOS;%20Web+Developer;Freelancer;%20DS%20Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+### Skills
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
 
-```
-I-am-akash-yadav@github
--------------------------
-💻 I am a self taught Software Developer and a Mobile Application Developer
-📚 I have a Bachelors in Computer Science from the University of AKTU at India
-📝 I have a strong interest in Mobile Apps and AI
-🔭 Working on Mobile Application Developer
-🌱 Learning about Mobile Application and Web Application stuff
-🌟 Main languages: Typescript, JavaScript
-🚩 Interested in Full Stack Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, bass and soft music
-```
-<hr>
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/akash32755?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
-## 🛠️ My Favorite Tools
+# Resume
 
-### 👨‍💻 Programming Languages
+# Akash Kumar
+## React Native Developer
+📞 +91-8757865758 | ✉️ akashkumar119911@gmail.com  
+🌐 [GitHub Profile](#) | [LinkedIn Profile](#)
 
-<p>
-    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%231572B6.svg?logo=typescript&logoColor=black"></a>
-    <a href=""><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-</p>    
+## Professional Summary
+Dedicated React Native Developer with over a year of experience in developing scalable, high-performance mobile and web applications. Skilled in optimizing codebases, enhancing user experiences, and deploying apps on Play Store and App Store. Proficient in modern frameworks, state management tools, and API integration. Passionate about delivering efficient, user-focused solutions that drive business success.
 
-### 🧰 Frameworks and Libraries
+## Technical Skills
+- **Programming Languages:** JavaScript, TypeScript, Java, HTML, CSS
+- **Frameworks & Libraries:** React Native, ReactJS, Zustand, Redux
+- **Tools & Platforms:** VSCode, Git, GitHub, Android Studio, Xcode, Firebase
+- **Specializations:** API Integration, UI/UX Design, App Optimization, Performance Monitoring
 
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-</p>
+## Work Experience
+### React Native Developer
+**WorldRef Technology, Delhi**  
+*July 2023 – Present*
+- Developed and deployed mobile apps on Play Store and App Store, achieving 100+ downloads and a 4.9-star rating
+- Optimized app size by 83%, enhancing performance and improving user retention by 30%
+- Designed and implemented reusable components, reducing development time by 40%
+- Integrated RESTful APIs using Axios, increasing data handling efficiency by 50%
+- Implemented Sentry for performance monitoring, decreasing bug resolution time by 60%
+- Enhanced app security by 70% with Keychain for token storage and AsyncStorage for local data management
+- Added advanced features like vision camera integration, improving functionality by 30%
 
-### 🗄️ Databases and Cloud Hosting
+### React Native Developer Intern
+**Mobiloitte, Delhi**  
+*March 2023 – June 2023*
+- Designed intuitive and user-friendly UIs, enhancing overall app usability
+- Developed reusable components, ensuring maintainable and scalable codebases
+- Integrated APIs to enable seamless communication between frontend and backend services
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+## Education
+### Bachelor of Technology in Computer Science and Engineering
+**Bharat Institute of Technology, Meerut**  
+*2019 – 2023*
+- Key Coursework: Mobile App Development, Software Engineering, Data Structures
+- Final Year Project: [Add Project Title or Brief Description]
 
-</p>
+## Key Projects
+### WorldRef Mobile App
+- Developed and deployed a mobile app, achieving a 4.9-star rating on Play Store
+- Reduced app size by 83% through optimization and code refactoring
+- Designed reusable components and implemented Zustand for efficient state management
 
-### 💻 Software and Tools
+### WorldRef Web App
+- Transitioned to web development, creating reusable components and designing intuitive UIs
+- Integrated APIs and managed application state using Redux and TypeScript, improving efficiency by 35%
 
-<p>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+## Certifications
+- **React Native Specialization**, Coursera (2023)
+- **JavaScript Essentials**, Udemy (2022)
 
-</p>
+## Soft Skills
+- Problem Solving
+- Team Collaboration
+- Adaptability
+- Effective Communication
 
-
-<h4> Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/mac-3DDC84?style=for-the-badge&logo=apple&logoColor=white">
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-</span>
-    
-
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-</p>
-
-
-## GitHub Stats
-
-
-|                                                               Akash's Stats                                                                |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Akash's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-|        ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)        |
-|              ![Akash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)              |
-    
-
-|                                                                                                      Akash's Stars                                                                                                       |                                                           Top Languages                                                           |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:akashkumar32755@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
-
-------
-Akash
-
-
-
-
+## Achievements
+- Boosted app engagement by 25% through optimized UI/UX design
+- Maintained a 98% user satisfaction rate for deployed applications
